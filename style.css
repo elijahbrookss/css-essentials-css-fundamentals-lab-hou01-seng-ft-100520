@@ -15,6 +15,8 @@ img {
 }
 
 a {
+  margin-right: auto;
+  margin-left: auto;
   text-align: center;
   padding: 10px;
   background: rgba(100, 0, 100, .2)
@@ -32,7 +34,7 @@ figcaption {
   margin-left: auto;
 }
 
-#details {
+#details div {
   display: block;
   float: left;
   background: rgba(100, 0, 0, .3);
