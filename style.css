@@ -15,9 +15,11 @@ img {
 }
 
 nav a{
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
   padding: 10px;
   background: rgba(100, 0, 100, .2)
-    
 }
 
 figcaption {
