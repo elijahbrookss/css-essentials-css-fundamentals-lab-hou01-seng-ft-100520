@@ -26,6 +26,5 @@ figcaption {
 
 p {
   text-align: center;
-  margin-left: 800px;
-  margin-right: 800px;
+  width: 40px;
 }
