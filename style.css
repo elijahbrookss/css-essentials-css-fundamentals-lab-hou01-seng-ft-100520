@@ -32,7 +32,7 @@ figcaption {
   margin-left: auto;
 }
 
-#details div {
+#details {
   display: block;
   float: left;
   background: rgba(100, 0, 0, .3);
