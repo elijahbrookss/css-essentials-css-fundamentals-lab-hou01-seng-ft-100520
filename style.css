@@ -24,6 +24,6 @@ figcaption {
   font-size: 15px;
 }
 
-p {
+p#featured-property {
   text-align: center;
 }
